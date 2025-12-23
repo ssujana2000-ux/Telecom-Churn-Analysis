@@ -4,11 +4,11 @@ Source - https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by
 
 ## Project Structure
 Telecom-Churn-Analysis/
-├── data/
-│   └── telecom_churn.csv
-├── dashboard/
-│   ├── Telecom_Churn_Analysis.pbix
-│   └── dashboard.png
+     data/
+    └── telecom_churn.csv
+    dashboard/
+    ├── Telecom_Churn_Analysis.pbix
+    └── dashboard.png
 └── README.md
 
 
@@ -21,7 +21,7 @@ Telecom-Churn-Analysis/
 - Built using Power BI with DAX measures
 
 ## Business Statement
-    The objective of this analysis is to understand customer plan usage, churn reasons and quantify revenue impact inorder to improve customer retention.
+The objective of this analysis is to understand customer plan usage, churn reasons and quantify revenue impact inorder to improve customer retention.
 
 ##	Data Cleaning and EDA
 1.	The dataset was imported into Power BI, data types were corrected, and no missing values were found in key churn, tenure, or revenue fields.
