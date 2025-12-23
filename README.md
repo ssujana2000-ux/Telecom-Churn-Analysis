@@ -1,5 +1,16 @@
 # Telecom-Churn-Analysis
-Power BI dashboard analyzing telecom customer churn to identify key drivers and improve retention
+Power BI dashboard analyzing telecom customer churn to identify key drivers and improve retention.
+Source - https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
+
+## Project Structure
+Telecom-Churn-Analysis/
+├── data/
+│   └── telecom_churn.csv
+├── dashboard/
+│   ├── Telecom_Churn_Analysis.pbix
+│   └── dashboard.png
+└── README.md
+
 
 ## 📊 Dashboard Preview
 ![Telecom Churn Dashboard](Dashboard/Dashboard.png)
