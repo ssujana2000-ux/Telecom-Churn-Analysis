@@ -34,7 +34,7 @@ The objective of this analysis is to understand customer plan usage, churn reaso
           Customer churn is highest within the first 6 months, while long-tenure customers show stronger retention.
           The dataset represents approximately 21M in total revenue, with churned customers contributing ~17%, indicating a significant revenue impact.
 
-##📊 KPI Summary
+## 📊 KPI Summary
 
 With high level insights, created measures using DAX functions like SUM,CALCULATE,AVERAGE,DIVIDE etc.
 
@@ -55,7 +55,7 @@ Utilized Bar Chart, Column Chart & Pie Chart to analyze Churn by categories like
 Displayed top 10 churned customers by revenue with help of Top N filter.
 
 
-##🔍 Business Insights Summary
+## 🔍 Business Insights Summary
 
 Customer churn is highest among early-tenure customers and those on month-to-month contracts. Competitor-related reasons are the primary drivers of churn, often linked to pricing, speed, and device offerings. A small group of high-value customers contributes to a large share of revenue loss, highlighting the need for targeted retention strategies. 
 
