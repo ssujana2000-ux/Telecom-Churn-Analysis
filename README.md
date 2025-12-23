@@ -19,9 +19,9 @@ README.md
 ![Telecom Churn Dashboard](Dashboard/Dashboard.png)
 
 ### Power BI Dashboard
-- Interactive churn analysis dashboard
-- Key metrics: churn rate, tenure, contract type, refund flag
-- Built using Power BI with DAX measures
+          - Interactive churn analysis dashboard
+          - Key metrics: churn rate, tenure, contract type, refund flag
+          - Built using Power BI with DAX measures
 
 ## Business Statement
 The objective of this analysis is to understand customer plan usage, churn reasons and quantify revenue impact inorder to improve customer retention.
@@ -36,27 +36,27 @@ The objective of this analysis is to understand customer plan usage, churn reaso
 
 📊 KPI Summary
 
-With high level insights, created measures using DAX functions like SUM,CALCULATE,AVERAGE,DIVIDE etc.
+          With high level insights, created measures using DAX functions like SUM,CALCULATE,AVERAGE,DIVIDE etc.
 
-The dashboard tracks key telecom churn metrics:
--total customers
--churn rate
--churned customers
--average tenure
--revenue impact
-It also measures revenue lost due to churn, refund amounts, and average revenue per customer. Customer behavior is analyzed across tenure groups, contract types, age segments, offers, and churn reasons to identify high-risk segments and revenue drivers.
+          The dashboard tracks key telecom churn metrics:
+          -total customers
+          -churn rate
+          -churned customers
+          -average tenure
+          -revenue impact
+          It also measures revenue lost due to churn, refund amounts, and average revenue per customer. Customer behavior is analyzed across tenure groups, contract types, age segments, offers, and churn reasons to identify high-risk segments and revenue drivers.
 
 ## Dashboard Summary
 
-Dashboard displays Churn Rate, Volume, Drivers of Churn and Avg Revenue lost per Churn, Churn rate by Contract & Churn Rate by Tenure
+          Dashboard displays Churn Rate, Volume, Drivers of Churn and Avg Revenue lost per Churn, Churn rate by Contract & Churn Rate by Tenure
 
-Listed important KPI's in the top of the dashboard using card visual - Total Customers, Revenue, Churn Rate.
-Utilized Bar Chart, Column Chart & Pie Chart to analyze Churn by categories like Tenure, Age, Refund and Churn Reasons.
-Displayed top 10 churned customers by revenue with help of Top N filter.
+          Listed important KPI's in the top of the dashboard using card visual - Total Customers, Revenue, Churn Rate.
+          Utilized Bar Chart, Column Chart & Pie Chart to analyze Churn by categories like Tenure, Age, Refund and Churn Reasons.
+          Displayed top 10 churned customers by revenue with help of Top N filter.
 
 
 🔍 Business Insights Summary
 
-Customer churn is highest among early-tenure customers and those on month-to-month contracts. Competitor-related reasons are the primary drivers of churn, often linked to pricing, speed, and device offerings. A small group of high-value customers contributes to a large share of revenue loss, highlighting the need for targeted retention strategies. 
+          Customer churn is highest among early-tenure customers and those on month-to-month contracts. Competitor-related reasons are the primary drivers of churn, often linked to pricing, speed, and device offerings. A small group of high-value customers contributes to a large share of revenue loss, highlighting the need for targeted retention strategies. 
 
 
